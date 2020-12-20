@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Ralph 👋
+
+I'm a fullstack engineer based in the San Francisco Bay area. I'm currently on paternity until late February. 
+
+- 🛠 I enjoy working with: Go, AWS, TypeScript, Linux, vim
+- 🌱 I’m currently learning how to be a dad (expecting 👶 late December '20) 
+- 📫 How to reach me: ralphplumley (@) gmail.com
 
 <!--
 **ralphplumley/ralphplumley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
