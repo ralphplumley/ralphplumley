@@ -4,7 +4,7 @@ I'm a fullstack engineer based in the San Francisco Bay area. I'm currently on p
 
 - 🛠 I enjoy working with: Go, AWS, TypeScript, Python, Linux, vim
 - 🌱 I’m currently preparing to be a dad (expecting 👶 late December '20)
-- 🖥️ I'm looking for a Full-stack software engineering role starting in Q1 2022. Please feel free to reach out to see if we're a fit 😃
+- 🖥️ I'm looking for a Full-stack software engineering role starting in Q1 2021. Please feel free to reach out to see if we're a fit 😃
 - 📫 How to reach me: ralphplumley (@) gmail.com
 
 <!--
