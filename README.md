@@ -1,6 +1,6 @@
 ### Hi there! I'm Ralph 👋
 
-I'm a fullstack engineer based in the San Francisco Bay area. I'm currently on paternity until late February. 
+I'm a fullstack engineer, currently on paternity until late February. 
 
 - 🛠 I enjoy working with: Go, AWS, TypeScript, Python, Linux, vim
 - 🌱 I’m currently preparing to be a dad (expecting 👶 late December '20)
