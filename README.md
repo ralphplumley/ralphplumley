@@ -1,6 +1,6 @@
 ### Hi there! I'm Ralph 👋
 
-I'm a fullstack engineer, currently on paternity leave.
+I'm a fullstack engineer with design sensibilities and empathy for the end user, usability, and accessibility.
 
 - 🛠 I enjoy working with: TypeScript, JavaScript, AWS, Linux, vim, React
 - 🌱 I’m a new dad currently on paternity (👶 late December '20)
