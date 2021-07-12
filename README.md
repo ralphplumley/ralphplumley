@@ -4,7 +4,6 @@ I'm a fullstack engineer with design sensibilities and empathy for the end user,
 
 - 🛠 I enjoy working with: TypeScript, JavaScript, AWS, Linux, vim, React
 - 🌱 I’m a new dad currently on paternity (👶 late December '20)
-- 🖥️ I'm looking for a Front-end or Full-stack software engineering role starting in Q2 or early Q3, 2021. Please feel free to reach out to see if we're a fit 😃
 - 📫 How to reach me: ralphplumley (@) gmail.com
 
 <!--
