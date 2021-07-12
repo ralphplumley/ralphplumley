@@ -3,7 +3,7 @@
 I'm a fullstack engineer with design sensibilities and empathy for the end user, usability, and accessibility.
 
 - 🛠 I enjoy working with: TypeScript, JavaScript, AWS, Linux, vim, React
-- 🌱 I’m a new dad currently on paternity (👶 late December '20)
+- 🌱 I’m a new dad (👶 late December '20)
 - 📫 How to reach me: ralphplumley (@) gmail.com
 
 <!--
