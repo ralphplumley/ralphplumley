@@ -4,7 +4,7 @@ I'm a fullstack engineer with design sensibilities and empathy for the end user,
 
 - 🛠 I enjoy working with: TypeScript, JavaScript, AWS, Linux, vim, React, NodeJS
 - 📖 Currently enjoying the [Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition) series
-- 📫 How to reach me: ralphplumley (@) gmail.com
+- 📫 How to reach me: my github handle (@) gmail.com
 
 <!--
 **ralphplumley/ralphplumley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
