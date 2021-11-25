@@ -3,7 +3,7 @@
 I'm a fullstack engineer with design sensibilities and empathy for the end user, usability, and accessibility.
 
 - 🛠 I enjoy working with: TypeScript, JavaScript, AWS, Linux, vim, React, NodeJS
-- 📖 Currently enjoying the [Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition) series
+- 📖 Currently enjoying the [Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition) series, functional programming, and Elixir.
 - 📫 How to reach me: my github handle (@) gmail.com
 
 <!--
