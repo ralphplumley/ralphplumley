@@ -1,11 +1,11 @@
 ### Hi there! I'm Ralph 👋
 
-I'm a fullstack engineer with design sensibilities and empathy for the end user, usability, and accessibility.
+I'm a software engineer interested in functional programming, distributed systems, telemetry and observability, data pipelines, MLOps, and cloud infrastructure.
 
-- 🛠 Professionally I've worked with: TypeScript, JavaScript, AWS, Linux, vim, React, NodeJS
-- 🖥️ Unprofessionally I enjoying playing with: C, Elixir, Lisp, rescript
-- 📖 Currently enjoying reading the [Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition) series, about functional programming, Elixir, [CS topics](https://www.teachyourselfcs.com)
-- 📫 How to reach me: my github handle (@) gmail.com
+- 🛠 Professionally I've worked with: Scala, Java, TypeScript, JavaScript, AWS, React, NodeJS.
+- 🖥️ Unprofessionally I enjoying playing with: C, Elixir, Lisp.
+- 📖 Currently enjoying reading the [Computer Organization and Design MIPS Edition](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269). Generally going through [these CS materials](https://teachyourselfcs.com/).
+- 📫 How to reach me: my github handle (@) gmail.com.
 
 <!--
 **ralphplumley/ralphplumley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
