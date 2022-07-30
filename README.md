@@ -1,6 +1,6 @@
 ### Hi there! I'm Ralph 👋
 
-I'm a software engineer interested in functional programming, distributed systems, telemetry and observability, data pipelines, MLOps, and cloud infrastructure.
+I'm a software engineer interested in functional programming, distributed systems, telemetry and observability, data pipelines, MLOps, infrastrucutre as code, and cloud infrastructure.
 
 - 🛠 Professionally I've worked with: Scala, Java, TypeScript, JavaScript, AWS, React, NodeJS.
 - 🖥️ Unprofessionally I enjoying playing with: C, Elixir, Lisp.
