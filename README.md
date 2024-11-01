@@ -2,7 +2,7 @@
 
 I'm a software engineer interested in functional programming, UI/UX, distributed systems, telemetry and observability, and cloud infrastructure.
 
-- 🛠 Professionally I've worked with: Typescript, Javscript, Python, Scala, Java, AWS, React, NodeJS.
+- 🛠 Professionally I've worked with: Typescript, Javascript, Python, Scala, Java, AWS, React, NodeJS.
 - 🖥️ Unprofessionally I enjoying playing with: C, Elixir, Lisp.
 - 📖 Currently enjoying reading the [Computer Organization and Design MIPS Edition](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269). Generally going through [these CS materials](https://teachyourselfcs.com/).
 - 📫 How to reach me: my github handle (@) gmail.com.
