@@ -1,8 +1,8 @@
 ### Hi there! I'm Ralph 👋
 
-I'm a software engineer interested in functional programming, UI/UX, distributed systems, telemetry and observability, and cloud infrastructure.
+I'm a software engineer interested in functional programming, UI/UX, distributed systems, telemetry and observability, data engineering, and infrastructure.
 
-- 🛠 Professionally I've worked with: Typescript, Javascript, Python, Scala, Java, AWS, React, NodeJS.
+- 🛠 Professionally I've worked with: C#, Typescript, Javascript, Python, Scala, Java, AWS, React, NodeJS.
 - 🖥️ Unprofessionally I enjoying playing with: C, Elixir, Lisp.
 - 📖 Currently enjoying reading the [Computer Organization and Design MIPS Edition](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269). Generally going through [these CS materials](https://teachyourselfcs.com/).
 - 📫 How to reach me: my github handle (@) gmail.com.
